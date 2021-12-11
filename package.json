@@ -1,0 +1,19 @@
+{
+  "name": "fw",
+  "version": "0.1.0",
+  "description": "Simple file watcher",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dekontext/fw.git"
+  },
+  "author": "Jacob Romano",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/dekontext/fw/issues"
+  },
+  "homepage": "https://github.com/dekontext/fw#readme"
+}
